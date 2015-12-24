@@ -7,7 +7,7 @@ use Illuminate\Foundation\Database\Eloquent\Model;
 class People extends Model
 {
 
-    //protected $table = 'news';
+    protected $table = 'people';
 
     /**
      * The attributes that are mass assignable.
