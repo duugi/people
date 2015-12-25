@@ -38,7 +38,11 @@
     <body>
         <div class="container">
             <div class="content">
+<<<<<<< HEAD
                 <div class="title">Laravel 5</div>
+=======
+                <div class="title">Duugi.net</div>
+>>>>>>> 101c195944d6f9140b85a3a748a04943e94777b5
             </div>
         </div>
     </body>
